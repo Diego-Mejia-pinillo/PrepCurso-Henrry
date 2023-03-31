@@ -1,2 +1,1 @@
-# PrepCurso-Henrry
-repositorio de prueba del modulo 2 henrry
+este proyecto es una prueba de como crear un repositorio y clonarlo desde hithun a mi escritorio loca, para apreneder nuevos comandos y realisar nuetros primeros commits.
